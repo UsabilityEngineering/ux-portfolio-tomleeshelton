@@ -36,18 +36,19 @@ All in all, I appreciate the thought has gone into this product design, and give
 
 - Tom
 
-## Terms Used
+### Terms Used
 
-MEMORABLE - How quickly users are able to remember a component of a process.
-AFFORDANCE/AFFORD - Describes the relationship between an object and its function.
-METAPHOR - Aids in users building solid conceptual models based on that which is already familiar.
-INTERACTION TYPE - Comprised of Exploring, Conversing, Instructing and Manipulating.
-CONVERSING - A user's natural-language interaction with a system.
-INSTRUCTING - A user's direct control over a system based on certain needs ("I need to print; I need to mail.")
-MANIPULATING - A user interacting with real or virtual objects, such as zooming or minimizing.
-EXPLORING - A user moving through a virtual environment.
-PARADIGM - Like that of the GUI or WIMP Interface, a set of interaction practices agreed upon by a community.
-LEARNABLE - Ability for a user to learn a certain process.
-NATURAL MAPPING - Where elements of an interface are positioned relative to cultural or biologically driven expectations.
-EFFICIENCY - Rate at which a process can be accomplished.
++ **MEMORABLE** - How quickly users are able to remember a component of a process.
++ **AFFORDANCE/AFFORD** - Describes the relationship between an object and its function.
++ **METAPHOR** - Aids in users building solid conceptual models based on that which is already familiar.
++ **INTERACTION TYPE** - Comprised of Exploring, Conversing, Instructing and Manipulating.
++ **CONVERSING** - A user's natural-language interaction with a system.
++ **INSTRUCTING** - A user's direct control over a system based on certain needs ("I need to print; I need to mail.")
++ **MANIPULATING** - A user interacting with real or virtual objects, such as zooming or minimizing.
++ **EXPLORING** - A user moving through a virtual environment.
++ **PARADIGM** - Like that of the GUI or WIMP Interface, a set of interaction practices agreed upon by a community.
++ **LEARNABLE** - Ability for a user to learn a certain process.
++ **NATURAL MAPPING** - Where elements of an interface are positioned relative to cultural or biologically driven expectations.
++ **EFFICIENCY** - Rate at which a process can be accomplished.
+
 
