@@ -1,18 +1,30 @@
-# First Journal Entry...
+# Oculus's Touch Controllers - A New Dimension for Usability
 **By Tom Shelton (2/18/2022)**
 ***
 
+![The Oculus Touch Controllers](both.jpg)
+
 Oculus, (Now Meta) set out to solve a very hard problem: "How do people interact in a virtual reality environment?" This has proven to be a multi-faceted issue, as there are multiple ways one interacts with their environment, be it through direct physical touch, locomotion, or instigating certain events, like dialogue. Their product, the Oculus Touch Controller, set out with a flurry of competitors to provide consumers with a solution and consistent **PARADIGM** for VR operation, and arrived at a product with plenty of positives, but plenty of negatives as well.
+
+![A PS4 and Oculus Touch Controller side-by-side](compared.jpg)
 
 In my experience, the Oculus Touch controller is **MEMORABLE** if you've ever used an XBOX or Playstation controller in your life. The layout of buttons roughly mimics one of these, broken in half to be more useful for ambidextrous interaction with the environment. The design of a traditional controller is being utilized as a sort of **METAPHOR** for this new mode of interaction. 
 
 I find the **INTERACTION TYPE** I use these controllers the most for is **EXPLORING**, however buttons will typically augment their functionality. Buttons may enable different modes of **MANIPULATION**, or enable/disable microphones used for **CONVERSING**. They may also bring up helpful assistants or menus in order to **INSTRUCT** the system (say to switch games.)
 
+![The controller's grip button.](grip.jpg)
+
 Since the controller is not able to accurately track each individual finger, and there is high demand for being able to grip certain objects in a virtual space, Oculus has implemented the "grip" button. This fulfills the criteria of **NATURAL MAPPING**, as they have determined the user's typical hand position, and tried to understand the most natural and logical place to put a button so that people do not need to think about what they are doing to grip an object. I do not even consider when I need to grip an object, and feel that they have been majorly successful with the button's inclusion.
+
+
 
 However, I also have complaints about the Touch controller, as it is not as **LEARNABLE** without explicit direction either from a demonstrator, or software. While the button layout is familiar to a lot of users, in my experience I have found that many are not expecting to use anything resembling an XBOX controller, and struggle to locate certain buttons on the "gamepad" portion (the circular buttons arranged in a diagonal shape that are typically under the user's thumb.) I would go as far as to say they are not intuitive. 
 
+![The controller's gamepad buttons.](buttons.jpg)
+
 Compared to the gripping functionality of the controller, the gamepad lacks a sort of natural mapping, and each button's similarity to the other prevents them from feeling unique. The other challenge is that the user must usually take the headset off to determine which is which. Perhaps making these buttons different tactile shapes would allow them to more readily find them, although it may be a compromise on the company's strict aesthetic standards. An alternative would be to have only one single thumb-button, although this would be limiting, as many games require multiple.
+
+![The controller's "loop" design.](loop.jpg)
 
 I also have complaints about the "loop" design of the controllers, which house the infra-red LEDs that help the controllers orient themselves in relation to the VR Headset. Many users find the loops **AFFORD** grasping when they are picking up the controllers while wearing a headset, and this **AFFORDANCE** is much stronger than the area actually meant for holding the controller idly. Controllers are also hand-specific, and users will often mix up the left and right controller immediately after realizing they are holding the device wrong. The big challenge here is that users tend to act on these devices while visual contact is minimal, and rely on tactile cues that are simply not there.
 
