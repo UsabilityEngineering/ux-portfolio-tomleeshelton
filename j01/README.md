@@ -2,6 +2,8 @@
 **By Tom Shelton (2/18/2022)**
 ***
 
+** Terms highlighted in bold are defined at the bottom of this page.**
+
 ![The Oculus Touch Controllers](both.jpg)
 
 Oculus, (Now Meta) set out to solve a very hard problem: "How do people interact in a virtual reality environment?" This has proven to be a multi-faceted issue, as there are multiple ways one interacts with their environment, be it through direct physical touch, locomotion, or instigating certain events, like dialogue. Their product, the Oculus Touch Controller, set out with a flurry of competitors to provide consumers with a solution and consistent **PARADIGM** for VR operation, and arrived at a product with plenty of positives, but plenty of negatives as well.
