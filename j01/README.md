@@ -2,7 +2,7 @@
 **By Tom Shelton (2/18/2022)**
 ***
 
-** Terms highlighted in bold are defined at the bottom of this page.**
+**Terms highlighted in bold are defined at the bottom of this page.**
 
 ![The Oculus Touch Controllers](both.jpg)
 
