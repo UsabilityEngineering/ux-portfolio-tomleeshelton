@@ -24,7 +24,7 @@ Setting the target temperature is also a confusing ordeal. Once a user has press
 
 Speaking of **NATURAL MAPPING**, the temperature chart on the front of the device seems to indicate some physical relationship between the curvature of the device and the labels. My first assumption without reading the content was that it was some indicator of how far to insert the probe into certain kinds of meat. The "timeline" design may not be the best choice here.
 
-Overall, it works after reading the manual, and there are some neat features, but I am confused at how a display that only really needs to move a number up or down could become so over-complicated. Calibration is definitely not on the same importance level as setting the target temperature, and the measurement system used could very well be a switch on the back. A simple display with a plus and a minus would be enough to take care of most users' needs, and foregoing the wellness chart would mean less visual clutter.
+Overall, it works after reading the manual, and there are some neat features, but I am confused at how a display that only really needs to move a number up or down could become so over-complicated. Calibration is definitely not on the same importance level as setting the target temperature, and the measurement system used could very well be a switch on the back. A simple display with a plus and a minus would be enough to take care of most users' needs, and forgoing the wellness chart would mean less visual clutter.
 
 
 
