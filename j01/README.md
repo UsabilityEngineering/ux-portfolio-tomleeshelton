@@ -12,7 +12,7 @@ Oculus, (Now Meta) set out to solve a very hard problem: "How do people interact
 
 In my experience, the Oculus Touch controller is **MEMORABLE** if you've ever used an XBOX or Playstation controller in your life. The layout of buttons roughly mimics one of these, broken in half to be more useful for ambidextrous interaction with the environment. The design of a traditional controller is being utilized as a sort of **METAPHOR** for this new mode of interaction. 
 
-I find the **INTERACTION TYPE** I use these controllers the most for is **EXPLORING**, however buttons will typically augment their functionality. Buttons may enable different modes of **MANIPULATION**, or enable/disable microphones used for **CONVERSING**. They may also bring up helpful assistants or menus in order to **INSTRUCT** the system (say to switch games.)
+I find the **INTERACTION TYPE** I use these controllers the most for is **EXPLORING**, however, buttons will typically augment their functionality. Buttons may enable different modes of **MANIPULATION**, or enable/disable microphones used for **CONVERSING**. They may also bring up helpful assistants or menus in order to **INSTRUCT** the system (say to switch games.)
 
 ![The controller's grip button.](grip.jpg)
 
@@ -24,17 +24,17 @@ However, I also have complaints about the Touch controller, as it is not as **LE
 
 ![The controller's gamepad buttons.](buttons.jpg)
 
-Compared to the gripping functionality of the controller, the gamepad lacks a sort of natural mapping, and each button's similarity to the other prevents them from feeling unique. The other challenge is that the user must usually take the headset off to determine which is which. Perhaps making these buttons different tactile shapes would allow them to more readily find them, although it may be a compromise on the company's strict aesthetic standards. An alternative would be to have only one single thumb-button, although this would be limiting, as many games require multiple.
+Compared to the gripping functionality of the controller, the gamepad lacks a sort of natural mapping, and each button's similarity to the other prevents them from feeling unique. The other challenge is that the user must usually take the headset off to determine which is which. Perhaps making these buttons different tactile shapes would allow them to more readily find them, although it may be a compromise on the company's strict aesthetic standards. An alternative would be to have only one single thumb button, although this would be limiting, as many games require multiple.
 
 ![The controller's "loop" design.](loop.jpg)
 
 I also have complaints about the "loop" design of the controllers, which house the infra-red LEDs that help the controllers orient themselves in relation to the VR Headset. Many users find the loops **AFFORD** grasping when they are picking up the controllers while wearing a headset, and this **AFFORDANCE** is much stronger than the area actually meant for holding the controller idly. Controllers are also hand-specific, and users will often mix up the left and right controller immediately after realizing they are holding the device wrong. The big challenge here is that users tend to act on these devices while visual contact is minimal, and rely on tactile cues that are simply not there.
 
-Some users may be quick to ask, "Why can't we use gesture tracking for everything? That would be intuitive!" I feel that Oculus HAS made the right decision by going with physical controllers, as locomotion, or other **INTERACTION TYPES** are painful to switch between when there is no physical reference item for your hand to rely on. The physicality of the controller makes actions a binary, rather than an analogue: ("The user has pressed the physical jump button" versus "The user is 80% likely to be making the jump gesture.")
+Some users may be quick to ask, "Why can't we use gesture tracking for everything? That would be intuitive!" I feel that Oculus HAS made the right decision by going with physical controllers, as locomotion, or other **INTERACTION TYPES** are painful to switch between when there is no physical reference item for your hand to rely on. The physicality of the controller makes actions a binary, rather than an analog: ("The user has pressed the physical jump button" versus "The user is 80% likely to be making the jump gesture.")
 
 With the goal of interacting with a virtual-reality environment, the experience of fumbling with **LEARNABILITY** and **MAPPING** issues, and the outcome of frustration and feeling heavy-handed in-game, I am disappointed with the Touch controllers compared to competitors. I still think that the company can remedy these issues, although it will take additional R&D resources. 
 
-All in all, I appreciate the thought has gone into this product design, and given its release during the early years of virtual reality, I can understand that it was a hard design to get out the door. However, I feel that it is time for the company to revise their controller setup, lest its in**EFFICIENT** design become the new default for virtual controller interfaces.
+All in all, I appreciate the thought has gone into this product design, and given its release during the early years of virtual reality, I can understand that it was a hard design to get out the door. However, I feel that it is time for the company to revise its controller setup, lest its in**EFFICIENT** design become the new default for virtual controller interfaces.
 
 - Tom
 
