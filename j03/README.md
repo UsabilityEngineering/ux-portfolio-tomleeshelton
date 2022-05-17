@@ -8,7 +8,7 @@
 ![Multiple images of the coffee grinder.](c1.jpg)
 
 
-I bought the Enzoo Coffee and Espresso Grinder when I was on a "do-it-at-home" espresso kick. It seemed like it would be fun to do everything from the grinding to the brewing at home, and this machine was the first step in that process. My goals with this device were to grind the coffee to a fine enough level that they would work properly in an espresso machine. Not all coffee grinders can do this, given that not everyone needs that fine of a powder.
+I bought the Enzoo Coffee and Espresso Grinder when I was on a "do-it-at-home" espresso kick. It seemed like it would be fun to do everything from the grinding to the brewing at home, and this machine was the first step in that process. My goals with this device were to grind the coffee to a fine enough level that it would work properly in an espresso machine. Not all coffee grinders can do this, given that not everyone needs that fine of a powder.
 
 My interaction began by surveying the entire device (photo A), a tall, skinny device in shades of red, black and silver. My **MENTAL MODEL** of this machine was influenced by my idea of how it should function, given gravity and the "spout" from which the ground coffee comes out of. The **LEARNABILITY** of this device is high, as from this mental model I intuited that the top section was for storing the coffee (photo I), which would be pulled by gravity down toward the spout area.
 
