@@ -13,5 +13,8 @@ In my spare time I enjoy biking around Chico, travelling, drawing, and being aro
 
 [Second Entry](j02/README.md)
 
+[Third Entry](j03/README.md)
+
+
 ## UX Team Project
 [CS-Tutor](https://usabilityengineering.github.io/CS-Tutor/)
